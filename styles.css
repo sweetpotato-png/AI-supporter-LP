@@ -257,8 +257,8 @@ ul { list-style: none; }
 }
 
 .hero-title {
-  font-size: clamp(2rem, 5vw, 3.2rem);
-  font-weight: 900;
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  font-weight: 700;
   line-height: 1.35;
   color: var(--brown);
   margin-bottom: 24px;
@@ -471,7 +471,7 @@ ul { list-style: none; }
 .badge-num {
   display: block;
   font-size: 24px;
-  font-weight: 900;
+  font-weight: 700;
   line-height: 1.2;
 }
 
@@ -555,7 +555,7 @@ ul { list-style: none; }
 
 .section-title {
   font-size: clamp(1.6rem, 4vw, 2.2rem);
-  font-weight: 900;
+  font-weight: 700;
   color: var(--brown);
   line-height: 1.4;
 }
@@ -640,7 +640,7 @@ ul { list-style: none; }
 
 .problems-closing-main {
   font-size: clamp(1.4rem, 3vw, 2rem);
-  font-weight: 900;
+  font-weight: 700;
   color: var(--brown);
 }
 
@@ -771,7 +771,7 @@ ul { list-style: none; }
 
 .ba-label {
   font-size: 14px;
-  font-weight: 900;
+  font-weight: 700;
   letter-spacing: 0.1em;
   margin-bottom: 20px;
   padding-bottom: 12px;
@@ -846,7 +846,7 @@ ul { list-style: none; }
 
 .stat-num {
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 700;
   color: var(--orange);
   line-height: 1;
 }
@@ -1049,7 +1049,7 @@ ul { list-style: none; }
   background: linear-gradient(135deg, var(--orange-pale), var(--orange-light));
   color: var(--orange-muted);
   font-size: 22px;
-  font-weight: 900;
+  font-weight: 700;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -1186,7 +1186,7 @@ ul { list-style: none; }
 
 .cta-title {
   font-size: clamp(1.6rem, 4vw, 2.4rem);
-  font-weight: 900;
+  font-weight: 700;
   color: #fff;
   line-height: 1.5;
   margin-bottom: 40px;
@@ -1239,7 +1239,7 @@ ul { list-style: none; }
 
 .contact-form h3 {
   font-size: 22px;
-  font-weight: 900;
+  font-weight: 700;
   color: var(--brown);
   text-align: center;
   margin-bottom: 8px;
