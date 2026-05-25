@@ -124,7 +124,7 @@
 
   function isGasConfigured() {
     const url = typeof FORM_CONFIG !== 'undefined' && FORM_CONFIG.GAS_ENDPOINT_URL;
-    return url && !url.includes('【ここにデプロイIDを貼る】');
+    return url && !url.includes('https://script.google.com/macros/s/AKfycbxheGjRcxn7oaDUI0C_Ni2S_ipfBnuSHxSx3Y9KHIlukzvRGGdlMWDJgBjnhRyXKCsQ5w/exec');
   }
 
   function setFormLoading(loading) {
