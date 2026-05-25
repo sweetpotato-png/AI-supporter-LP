@@ -124,7 +124,7 @@
 
   function isGasConfigured() {
     const url = typeof FORM_CONFIG !== 'undefined' && FORM_CONFIG.GAS_ENDPOINT_URL;
-    return url && !url.includes('https://script.google.com/macros/s/AKfycbyNAV5T8yXjXK4LzTHlgBc4n48P0ktD1AOYpRIopWn2yfiniXp3Q4DT-FGmJI3L7fG77A/exec');
+    return url && url.startsWith('https://script.google.com/macros/s/') && url.endsWith('/exec');
   }
 
   function setFormLoading(loading) {
