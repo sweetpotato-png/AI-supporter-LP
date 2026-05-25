@@ -7,5 +7,5 @@
  * セットアップ手順は gas/Code.gs の先頭コメントを参照してください。
  */
 const FORM_CONFIG = {
-  GAS_ENDPOINT_URL: 'https://script.google.com/macros/s/【ここにデプロイIDを貼る】/exec',
+  GAS_ENDPOINT_URL: 'https://script.google.com/macros/s/AKfycbw0h9TJ8r0BNOfNOtZPYSaur8mRZfSLc9KMRMuGJfn2ClbtI_VM6dDtAiXBrdBTf2TWpw/exec',
 };
